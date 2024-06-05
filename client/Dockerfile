@@ -1,5 +1,5 @@
 # 21i-1188 Sheraz Tariq
-FROM node:17 as build
+FROM node:16 as build
 
 WORKDIR /app
 
